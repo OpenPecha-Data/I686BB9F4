@@ -1,0 +1,100 @@
+id: a4b5a59e6aab4d95a2d72ecac117876d
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  1553a7d5e630432ba3b41762e535776e:
+    span:
+      start: 0
+      end: 632
+    imgnum: 1
+    reference: I8LS181320001.tif
+  1fbdb6647f2a4e228da273404ead88d9:
+    span:
+      start: 633
+      end: 715
+    imgnum: 3
+    reference: I8LS181320003.jpg
+  5447bf4c93974f04b4347287bc1f5656:
+    span:
+      start: 716
+      end: 1193
+    imgnum: 4
+    reference: I8LS181320004.jpg
+  71e181929b864ddcb48bf537a135db6b:
+    span:
+      start: 1194
+      end: 1624
+    imgnum: 5
+    reference: I8LS181320005.jpg
+  6fe8c7ccfc59414b80e09c4e3ad93d72:
+    span:
+      start: 1625
+      end: 2048
+    imgnum: 6
+    reference: I8LS181320006.jpg
+  88a47616a52e42cbbcbf24f674361721:
+    span:
+      start: 2049
+      end: 2463
+    imgnum: 7
+    reference: I8LS181320007.jpg
+  21374777d67b4eb29a3d16f8e79ca449:
+    span:
+      start: 2464
+      end: 2874
+    imgnum: 8
+    reference: I8LS181320008.jpg
+  b5bd403b1fef4f2fbb572e2be8ba6c22:
+    span:
+      start: 2875
+      end: 3321
+    imgnum: 9
+    reference: I8LS181320009.jpg
+  59149a4392824acd9f1dad8db2212eed:
+    span:
+      start: 3322
+      end: 3779
+    imgnum: 10
+    reference: I8LS181320010.jpg
+  af3e0dd81f214fe08f07930d9963b8ad:
+    span:
+      start: 3780
+      end: 4271
+    imgnum: 11
+    reference: I8LS181320011.jpg
+  7549c757dfe74d7b8d2644b3805bfb26:
+    span:
+      start: 4272
+      end: 4695
+    imgnum: 12
+    reference: I8LS181320012.jpg
+  2a3a5194a52d47b1a2967e9f7af2e7ec:
+    span:
+      start: 4696
+      end: 5141
+    imgnum: 13
+    reference: I8LS181320013.jpg
+  4b94affa7de2461f9865d07f877fad58:
+    span:
+      start: 5142
+      end: 5635
+    imgnum: 14
+    reference: I8LS181320014.jpg
+  1db92bc8217d44e8afae3b1de6235ca6:
+    span:
+      start: 5636
+      end: 6161
+    imgnum: 15
+    reference: I8LS181320015.jpg
+  3305d859e0264195a5530387796551b0:
+    span:
+      start: 6162
+      end: 6643
+    imgnum: 16
+    reference: I8LS181320016.jpg
+  e986dc4e15954ebaa82bd1fa6cc8ae82:
+    span:
+      start: 6644
+      end: 7138
+    imgnum: 17
+    reference: I8LS181320017.jpg
